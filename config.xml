@@ -19,8 +19,6 @@
     <param name="ios-package" value="CDVStatusBar" onload="true"/>
   </feature>
 
-    <gap:plugin name="com.plugin.perceptio.ZopimAndroidPlugin" />
-
     <feature name="ZopimAndroidPlugin">
         <param name="android-package" value="com.plugin.perceptio.ZopimAndroidPlugin" />
     </feature>
